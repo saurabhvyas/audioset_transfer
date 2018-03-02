@@ -7,6 +7,8 @@ This simple project, uses Google'es pretrained model, to build a new classifer, 
 Adapted from, Tensorflow Models Audioset pretrained model code, provided by communnity
 https://github.com/tensorflow/models/tree/master/research/audioset
 
+please follow install instructions from above link 
+
 
 
 Usage :
